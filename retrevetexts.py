@@ -8,7 +8,7 @@ def get_text_from_file(file_path):
         return None
 
 # Provide the file path
-file_path = 'path/to/your/text_file.txt'
+file_path = 'https://arun457.github.io/Python/text.txt'
 
 # Get the text from the file
 text = get_text_from_file(file_path)
